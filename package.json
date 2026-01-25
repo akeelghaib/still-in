@@ -6,10 +6,10 @@
     "lib": "lib"
   },
   "scripts": {
-  "dev": "next dev",
-  "build": "next build",
-  "start": "next start"
-},
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -18,5 +18,10 @@
     "next": "^15.5.9",
     "react": "^19.2.3",
     "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "25.0.10",
+    "@types/react": "19.2.9",
+    "typescript": "5.9.3"
   }
 }
